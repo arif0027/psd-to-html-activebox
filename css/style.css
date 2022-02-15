@@ -289,9 +289,9 @@ body{
 footer{
     background-color: #313454;
     text-align: center;
+    padding: 15px 0 2px 0;
 }
 footer pre{
-    padding: 30px 0px;
     color: #9d9fb2;
     font-family: 'Raleway', sans-serif;
     font-size: 14px;
